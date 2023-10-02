@@ -1,0 +1,25 @@
+1)template.py
+jisme humne saare folder or files banayi
+
+usse pehle ek environment banana hoga(command-conda -n name python_version -y)  -y=means accept creating
+2)requirments m jaayenge
+    transformer-to use hugging face you need to use tranfromer library\
+    sacreblue-is a evaluation matrix -for text summarization
+    -e .-install your steup.py
+
+3)setup.py
+    for local package installation
+
+after setup.py 
+in venv terminal write pip install -r requirements.txt 
+
+then commit changes in add
+
+
+
+
+
+
+command
+activate environment -venv\Scripts\Activate.ps1
+deactivate-deactivate 
